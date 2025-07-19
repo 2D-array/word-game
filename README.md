@@ -1,16 +1,31 @@
-# word_game
+# Guess It - Word Puzzle Game  
 
-A new Flutter project.
+<p align="center">
+  <img src="screenshots/gameplay.gif" width="300" alt="Gameplay Demo">
+</p>
 
-## Getting Started
+A Wordle-inspired word guessing game built with Flutter, featuring customizable difficulty and sleek animations.
 
-This project is a starting point for a Flutter application.
+## 🎮 Features  
+- 🔠 **Adjustable word length** (4-7 letters)  
+- 🔢 **Custom attempt limits** (3-7 tries)  
+- 🎨 **Color feedback system** (Green/Yellow tiles)  
+- 📱 **Haptic feedback** on interactions  
+- ✨ **Smooth animations** for tile flips and wins  
+- 🌈 **Modern UI** with gradient backgrounds  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack  
+- **Flutter** (Dart)  
+- **BLoC Pattern** for state management  
+- **GoRouter** for navigation  
+- **GetIt** for dependency injection  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots  
+| Home Screen | Gameplay | Win/Loss Dialogs |
+|-------------|----------|------------------|
+| <img src="screenshots/home.jpg" width="200"> | <img src="screenshots/game.jpg" width="200"> | <img src="screenshots/dialog.jpg" width="200"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/word_game.git
