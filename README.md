@@ -23,7 +23,7 @@ A Wordle-inspired word guessing game built with Flutter, featuring customizable 
 ## 📸 Screenshots  
 | Home Screen | Gameplay | Win/Loss Dialogs |
 |-------------|----------|------------------|
-| <img src="screenshots/home.jpg" width="200"> | <img src="screenshots/game.jpg" width="200"> | <img src="screenshots/dialog.jpg" width="200"> |
+| <img src="Screenshot_20250719_141641.png" width="200"> | <img src="screenshots/game.jpg" width="200"> | <img src="screenshots/dialog.jpg" width="200"> |
 
 ## 🚀 Installation  
 1. Clone the repository:  
