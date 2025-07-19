@@ -21,9 +21,9 @@ A Wordle-inspired word guessing game built with Flutter, featuring customizable 
 - **GetIt** for dependency injection  
 
 ## 📸 Screenshots  
-| Home Screen | Gameplay | Win/Loss Dialogs |
-|-------------|----------|------------------|
-| <img src="Screenshot_20250719_141641.png" width="200"> | <img src="screenshots/game.jpg" width="200"> | <img src="screenshots/dialog.jpg" width="200"> |
+| Home Screen | Gameplay | Win Dialogs | Loss Dialogs |
+|-------------|----------|------------------|---------------|
+| <img src="Screenshot_20250719_141641.png" width="200"> | <img src="Screenshot_20250719_141732.png" width="200"> | <img src="Screenshot_20250719_141743.png" width="200"> | <img src="Screenshot_20250719_141811.png" width="200"> |
 
 ## 🚀 Installation  
 1. Clone the repository:  
