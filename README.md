@@ -25,6 +25,12 @@ A Wordle-inspired word guessing game built with Flutter, featuring customizable 
 |-------------|----------|------------------|---------------|
 | <img src="Screenshot_20250719_141641.png" width="200"> | <img src="Screenshot_20250719_141732.png" width="200"> | <img src="Screenshot_20250719_141743.png" width="200"> | <img src="Screenshot_20250719_141811.png" width="200"> |
 
+<p align="center">
+  <img src="app.mp4" width="300" alt="Gameplay Demo">
+  <br>
+  <video src="https://github.com/your-username/word_game/raw/main/assets/gameplay.mp4" width="400" controls></video>
+</p>
+
 ## 🚀 Installation  
 1. Clone the repository:  
    ```bash
