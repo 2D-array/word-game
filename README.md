@@ -28,7 +28,7 @@ A Wordle-inspired word guessing game built with Flutter, featuring customizable 
 <p align="center">
   <img src="app.mp4" width="300" alt="Gameplay Demo">
   <br>
-  <video src="https://github.com/your-username/word_game/raw/main/assets/gameplay.mp4" width="400" controls></video>
+  <video src="https://github.com/2D-array/word-game/blob/main/app.mp4" width="400" controls></video>
 </p>
 
 ## 🚀 Installation  
